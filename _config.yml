@@ -1,28 +1,40 @@
-name: Living the Dream
 favicon: null
-layout_spectrum: 0.02482859487645328
-typography_spectrum: 0.8092150615993887
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: Living the Dream
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.7051557
+  brandStrength: 0.25
+  lightness: 0
   brandColors:
     - '#9298a6'
     - '#cacacc'
     - '#0c0805'
     - '#362c22'
     - '#61523d'
-  brandStrength: 0.25
-  lightness: 0.6875
-  saturation: 0.625
   rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.8092150615993887
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.02482859487645328
+analytics:
+  twitter: null
+  google: null
+  facebook: null
