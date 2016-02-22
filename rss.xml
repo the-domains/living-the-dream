@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Living the Dream]]></title>
         <description><![CDATA[Living the Dream]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/living-the-dream/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 15:16:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 22 Feb 2016 15:16:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/living-the-dream/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/814fd5a5-244d-4730-a91d-89e27f06a528.JPG">]]></description>
-            <link>undefinedadd0f0ec-3ce6-4482-8a3a-d96495c171c3/index.html</link>
+            <link>https://thegrid.ai/living-the-dream/add0f0ec-3ce6-4482-8a3a-d96495c171c3/index.html</link>
             <guid isPermaLink="false">add0f0ec-3ce6-4482-8a3a-d96495c171c3</guid>
-            <pubDate>Mon, 22 Feb 2016 15:14:31 GMT</pubDate>
+            <pubDate>Mon, 22 Feb 2016 15:15:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
